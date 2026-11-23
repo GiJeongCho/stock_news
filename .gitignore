@@ -1,0 +1,12 @@
+.env
+.chrome-profile/
+.chrome-debug/
+logs/
+screenshots/
+__pycache__/
+*.pyc
+
+stock/.env
+stock/.chrome-stock/
+stock/state.json
+stock/logs/

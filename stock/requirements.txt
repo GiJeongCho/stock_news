@@ -1,0 +1,9 @@
+selenium>=4.20
+python-dotenv>=1.0
+requests>=2.31
+pyperclip>=1.8
+beautifulsoup4>=4.12
+lxml>=5.0
+# 선택: LLM 요약을 쓰려면
+# openai>=1.0
+# anthropic>=0.30
